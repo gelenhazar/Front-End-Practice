@@ -1,0 +1,96 @@
+.logocenter {
+    display: block;
+    text-align: center;
+    margin-top: 150px;
+}
+.container {
+    width: block;
+    height: 90px;
+    background-color: rgb(177, 172, 172);
+    text-align: center;
+    margin-bottom: 0;
+    
+    
+    
+    
+
+}
+.button {
+    
+    width: 300px;
+    height: 20px;
+    background-color: white;
+
+
+    
+}
+.gsearch {
+    
+    background-color:rgb(177, 172, 172) ;
+    
+    color: black;
+    
+    
+    margin-left: auto;
+    margin-right: auto;
+ 
+  
+
+   
+}
+.glucky {
+
+    background-color:rgb(177, 172, 172) ;
+    color: black;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ 
+    
+    
+    
+   
+    
+}
+.box1 {
+    height: 130px;
+    width: 600px;
+    background-color: rgb(92, 92, 245);
+    text-align: center;
+   
+}
+ul {
+    list-style: none;
+}
+.box2 {
+    
+    height: 130px;
+    width: 300px;
+    background-color: rgb(92, 92, 245);
+    text-align: center;
+}
+.box1, .box2{
+    margin-top: 10px;
+    
+    margin-right: 8px;
+    display:inline; 
+    float:left;
+ }
+ .box3 {
+    width: 600px;
+    height: 130px;
+   
+    margin-top: 10px;
+    background-color:rgb(92, 92, 245) ;
+    
+    float:left;
+ }
+ .footer {
+  
+    text-align: center;
+    color: black;
+ }
+
+    
+    
