@@ -1,0 +1,1 @@
+**I recoded new Google Chrome main page without help**
