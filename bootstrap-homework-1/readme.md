@@ -6,7 +6,7 @@ I coded a website that sells coffee. I practiced Bootstrap elements for the firs
 -------
 Here is some screenshots of my work.
 
-![Image](Ss/indexscreen)
+![Image](Ss/indexscreen.png)
 
 ------
 
